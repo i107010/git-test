@@ -3,7 +3,4 @@ hello Scala!
 hello git!
 hello git!
 hello git!
-111111111
-111111111
-hot-fix
-add by master
+master
